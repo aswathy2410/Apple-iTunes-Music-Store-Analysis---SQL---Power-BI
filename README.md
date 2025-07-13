@@ -1,4 +1,4 @@
-# Apple-iTunes-Music-Store-Analysis---SQL---Power-BI
+# Apple-iTunes-Music-Store-Analysis-SQL-Power-BI
 # Apple Music & iTunes Store Data Analysis Dashboard
 
 ## Overview
